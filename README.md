@@ -3,18 +3,16 @@
 
 ## Overview
 
-The CGPA Calculator is a C++ program that allows users to input their grades and calculate their Cumulative Grade Point Average (CGPA). This project includes a simple GUI to enhance user interaction and make the process of calculating CGPA more user-friendly.
+The CGPA Calculator is a C++ program that allows users to input their grades and calculate their Cumulative Grade Point Average (CGPA). The program is designed to be simple and efficient, making it easy for users to calculate their CGPA based on their grades.
 
 ## Features
 
 - **Grade Input:** Users can enter their grades for multiple subjects.
 - **CGPA Calculation:** The program accurately calculates the CGPA based on the grades entered.
-- **Graphical User Interface:** A simple GUI is provided to make the application more accessible and easier to use.
 
 ## Technology Stack
 
 - **Programming Language:** C++
-- **Libraries/Frameworks:** Any additional libraries you used (e.g., for GUI development)
 
 ## Installation
 
@@ -44,7 +42,6 @@ The CGPA Calculator is a C++ program that allows users to input their grades and
 ## Future Enhancements
 
 - Adding support for different grading systems.
-- Improving the GUI with more features and customization options.
 - Extending the program to calculate Semester GPA (SGPA).
 
 ## Contributing
